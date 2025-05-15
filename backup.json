@@ -1,0 +1,113 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Alice Oliveira",
+      "cpf": "11111111111",
+      "telefone": "11912345678",
+      "email": "alice@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Costa",
+      "cpf": "22222222222",
+      "telefone": "11923456789",
+      "email": "bruno@gmail.com"
+    },
+    {
+      "id": 3,
+      "nome": "Carla Mendes",
+      "cpf": "33333333333",
+      "telefone": "11934567890",
+      "email": "carla@gmail.com"
+    },
+    {
+      "id": 4,
+      "nome": "Daniel Souza",
+      "cpf": "44444444444",
+      "telefone": "11945678901",
+      "email": "daniel@gmail.com"
+    },
+    {
+      "id": 5,
+      "nome": "Elisa Lima",
+      "cpf": "55555555555",
+      "telefone": "11956789012",
+      "email": "elisa@gmail.com"
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "nome": "Thor",
+      "especie": "Canina",
+      "raca": "Labrador",
+      "cliente_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Luna",
+      "especie": "Felina",
+      "raca": "Persa",
+      "cliente_id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Rex",
+      "especie": "Canina",
+      "raca": "Bulldog",
+      "cliente_id": 3
+    },
+    {
+      "id": 4,
+      "nome": "Mimi",
+      "especie": "Felina",
+      "raca": "Siamês",
+      "cliente_id": 4
+    },
+    {
+      "id": 5,
+      "nome": "Bidu",
+      "especie": "Canina",
+      "raca": "Beagle",
+      "cliente_id": 5
+    }
+  ],
+  "agendamentos": [
+    {
+      "id": 1,
+      "pet_id": 1,
+      "data": "20/05/2025",
+      "hora": "09:00",
+      "servico": "Banho"
+    },
+    {
+      "id": 2,
+      "pet_id": 2,
+      "data": "21/05/2025",
+      "hora": "14:30",
+      "servico": "Consulta"
+    },
+    {
+      "id": 3,
+      "pet_id": 3,
+      "data": "22/05/2025",
+      "hora": "11:00",
+      "servico": "Tosa"
+    },
+    {
+      "id": 4,
+      "pet_id": 4,
+      "data": "23/05/2025",
+      "hora": "15:00",
+      "servico": "Vacinação"
+    },
+    {
+      "id": 5,
+      "pet_id": 5,
+      "data": "24/05/2025",
+      "hora": "10:30",
+      "servico": "Cirurgia"
+    }
+  ]
+}
