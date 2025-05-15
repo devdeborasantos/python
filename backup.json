@@ -42,35 +42,35 @@
       "nome": "Thor",
       "especie": "Canina",
       "raca": "Labrador",
-      "cliente_id": 1
+      "cliente_nome": 1
     },
     {
       "id": 2,
       "nome": "Luna",
       "especie": "Felina",
       "raca": "Persa",
-      "cliente_id": 2
+      "cliente_nome": 2
     },
     {
       "id": 3,
       "nome": "Rex",
       "especie": "Canina",
       "raca": "Bulldog",
-      "cliente_id": 3
+      "cliente_nome": 3
     },
     {
       "id": 4,
       "nome": "Mimi",
       "especie": "Felina",
       "raca": "Siamês",
-      "cliente_id": 4
+      "cliente_nome": 4
     },
     {
       "id": 5,
       "nome": "Bidu",
       "especie": "Canina",
       "raca": "Beagle",
-      "cliente_id": 5
+      "cliente_nome": 5
     }
   ],
   "agendamentos": [
