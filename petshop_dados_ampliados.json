@@ -1,0 +1,373 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Amanda Rocha",
+      "cpf": "32165498700",
+      "telefone": "99988877766",
+      "email": "amanda.rocha@example.com"
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Castro",
+      "cpf": "65498732100",
+      "telefone": "98877665544",
+      "email": "bruno.castro@example.com"
+    },
+    {
+      "id": 3,
+      "nome": "Camila Nunes",
+      "cpf": "78945612300",
+      "telefone": "97766554433",
+      "email": "camila.nunes@example.com"
+    },
+    {
+      "id": 4,
+      "nome": "Diego Martins",
+      "cpf": "85274196300",
+      "telefone": "96655443322",
+      "email": "diego.martins@example.com"
+    },
+    {
+      "id": 5,
+      "nome": "Elaine Costa",
+      "cpf": "96325874100",
+      "telefone": "95544332211",
+      "email": "elaine.costa@example.com"
+    },
+    {
+      "id": 6,
+      "nome": "Fábio Lima",
+      "cpf": "14725836900",
+      "telefone": "94433221100",
+      "email": "fabio.lima@example.com"
+    },
+    {
+      "id": 7,
+      "nome": "Gabriela Silva",
+      "cpf": "36925814700",
+      "telefone": "93322110099",
+      "email": "gabriela.silva@example.com"
+    },
+    {
+      "id": 8,
+      "nome": "Hugo Santos",
+      "cpf": "25836914700",
+      "telefone": "92211009988",
+      "email": "hugo.santos@example.com"
+    },
+    {
+      "id": 9,
+      "nome": "Isabela Almeida",
+      "cpf": "15975348600",
+      "telefone": "91100998877",
+      "email": "isabela.almeida@example.com"
+    },
+    {
+      "id": 10,
+      "nome": "João Pedro",
+      "cpf": "75315948600",
+      "telefone": "90099887766",
+      "email": "joao.pedro@example.com"
+    },
+    {
+      "id": 11,
+      "nome": "Karen Moraes",
+      "cpf": "65432178900",
+      "telefone": "89988776655",
+      "email": "karen.moraes@example.com"
+    },
+    {
+      "id": 12,
+      "nome": "Lucas Fernandes",
+      "cpf": "98765412300",
+      "telefone": "88877665544",
+      "email": "lucas.fernandes@example.com"
+    },
+    {
+      "id": 13,
+      "nome": "Mariana Lopes",
+      "cpf": "32198765400",
+      "telefone": "87766554433",
+      "email": "mariana.lopes@example.com"
+    },
+    {
+      "id": 14,
+      "nome": "Nicolas Rocha",
+      "cpf": "78912345600",
+      "telefone": "86655443322",
+      "email": "nicolas.rocha@example.com"
+    },
+    {
+      "id": 15,
+      "nome": "Olivia Dias",
+      "cpf": "45678912300",
+      "telefone": "85544332211",
+      "email": "olivia.dias@example.com"
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "nome": "Bolt",
+      "especie": "Canina",
+      "raca": "Labrador",
+      "cliente_id": 1,
+      "cliente_nome": "Amanda Rocha"
+    },
+    {
+      "id": 2,
+      "nome": "Mimi",
+      "especie": "Felina",
+      "raca": "Siamês",
+      "cliente_id": 2,
+      "cliente_nome": "Bruno Castro"
+    },
+    {
+      "id": 3,
+      "nome": "Thor",
+      "especie": "Canina",
+      "raca": "Husky Siberiano",
+      "cliente_id": 3,
+      "cliente_nome": "Camila Nunes"
+    },
+    {
+      "id": 4,
+      "nome": "Luna",
+      "especie": "Felina",
+      "raca": "Persa",
+      "cliente_id": 4,
+      "cliente_nome": "Diego Martins"
+    },
+    {
+      "id": 5,
+      "nome": "Rex",
+      "especie": "Canina",
+      "raca": "Pastor Alemão",
+      "cliente_id": 5,
+      "cliente_nome": "Elaine Costa"
+    },
+    {
+      "id": 6,
+      "nome": "Nina",
+      "especie": "Canina",
+      "raca": "Golden Retriever",
+      "cliente_id": 6,
+      "cliente_nome": "Fábio Lima"
+    },
+    {
+      "id": 7,
+      "nome": "Felix",
+      "especie": "Felina",
+      "raca": "Maine Coon",
+      "cliente_id": 7,
+      "cliente_nome": "Gabriela Silva"
+    },
+    {
+      "id": 8,
+      "nome": "Spike",
+      "especie": "Canina",
+      "raca": "Bulldog",
+      "cliente_id": 8,
+      "cliente_nome": "Hugo Santos"
+    },
+    {
+      "id": 9,
+      "nome": "Chloe",
+      "especie": "Felina",
+      "raca": "Ragdoll",
+      "cliente_id": 9,
+      "cliente_nome": "Isabela Almeida"
+    },
+    {
+      "id": 10,
+      "nome": "Max",
+      "especie": "Canina",
+      "raca": "Beagle",
+      "cliente_id": 10,
+      "cliente_nome": "João Pedro"
+    },
+    {
+      "id": 11,
+      "nome": "Sasha",
+      "especie": "Canina",
+      "raca": "Shih Tzu",
+      "cliente_id": 11,
+      "cliente_nome": "Karen Moraes"
+    },
+    {
+      "id": 12,
+      "nome": "Loki",
+      "especie": "Felina",
+      "raca": "Bengal",
+      "cliente_id": 12,
+      "cliente_nome": "Lucas Fernandes"
+    },
+    {
+      "id": 13,
+      "nome": "Ruby",
+      "especie": "Canina",
+      "raca": "Dachshund",
+      "cliente_id": 13,
+      "cliente_nome": "Mariana Lopes"
+    },
+    {
+      "id": 14,
+      "nome": "Milo",
+      "especie": "Felina",
+      "raca": "Scottish Fold",
+      "cliente_id": 14,
+      "cliente_nome": "Nicolas Rocha"
+    },
+    {
+      "id": 15,
+      "nome": "Zara",
+      "especie": "Canina",
+      "raca": "Boxer",
+      "cliente_id": 15,
+      "cliente_nome": "Olivia Dias"
+    }
+  ],
+  "agendamentos": [
+    {
+      "id": 1,
+      "pet": 1,
+      "data": "20/06/2025",
+      "hora": "08:30",
+      "servico": "Vacina"
+    },
+    {
+      "id": 2,
+      "pet": 2,
+      "data": "21/06/2025",
+      "hora": "11:00",
+      "servico": "Consulta"
+    },
+    {
+      "id": 3,
+      "pet": 3,
+      "data": "22/06/2025",
+      "hora": "09:00",
+      "servico": "Banho"
+    },
+    {
+      "id": 4,
+      "pet": 4,
+      "data": "23/06/2025",
+      "hora": "10:30",
+      "servico": "Tosa"
+    },
+    {
+      "id": 5,
+      "pet": 5,
+      "data": "24/06/2025",
+      "hora": "14:00",
+      "servico": "Consulta"
+    },
+    {
+      "id": 6,
+      "pet": 6,
+      "data": "25/06/2025",
+      "hora": "09:00",
+      "servico": "Vacina"
+    },
+    {
+      "id": 7,
+      "pet": 7,
+      "data": "26/06/2025",
+      "hora": "15:30",
+      "servico": "Banho"
+    },
+    {
+      "id": 8,
+      "pet": 8,
+      "data": "27/06/2025",
+      "hora": "13:00",
+      "servico": "Tosa"
+    },
+    {
+      "id": 9,
+      "pet": 9,
+      "data": "28/06/2025",
+      "hora": "16:00",
+      "servico": "Consulta"
+    },
+    {
+      "id": 10,
+      "pet": 10,
+      "data": "29/06/2025",
+      "hora": "11:00",
+      "servico": "Vacina"
+    },
+    {
+      "id": 11,
+      "pet": 11,
+      "data": "30/06/2025",
+      "hora": "08:30",
+      "servico": "Banho"
+    },
+    {
+      "id": 12,
+      "pet": 12,
+      "data": "01/07/2025",
+      "hora": "10:00",
+      "servico": "Consulta"
+    },
+    {
+      "id": 13,
+      "pet": 13,
+      "data": "02/07/2025",
+      "hora": "14:30",
+      "servico": "Tosa"
+    },
+    {
+      "id": 14,
+      "pet": 14,
+      "data": "03/07/2025",
+      "hora": "09:30",
+      "servico": "Vacina"
+    },
+    {
+      "id": 15,
+      "pet": 15,
+      "data": "04/07/2025",
+      "hora": "15:00",
+      "servico": "Consulta"
+    },
+    {
+      "id": 16,
+      "pet": 1,
+      "data": "05/07/2025",
+      "hora": "08:00",
+      "servico": "Banho"
+    },
+    {
+      "id": 17,
+      "pet": 2,
+      "data": "06/07/2025",
+      "hora": "13:30",
+      "servico": "Tosa"
+    },
+    {
+      "id": 18,
+      "pet": 3,
+      "data": "07/07/2025",
+      "hora": "10:30",
+      "servico": "Consulta"
+    },
+    {
+      "id": 19,
+      "pet": 4,
+      "data": "08/07/2025",
+      "hora": "09:00",
+      "servico": "Vacina"
+    },
+    {
+      "id": 20,
+      "pet": 5,
+      "data": "09/07/2025",
+      "hora": "14:00",
+      "servico": "Banho"
+    }
+  ]
+}
